@@ -2,6 +2,7 @@
 layout: default
 title: Emcomm Tools
 nav_enabled: true
+nav_order: 2
 ---
 
 # Sample Heading
