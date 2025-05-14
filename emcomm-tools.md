@@ -1,6 +1,8 @@
+---
 layout: default
 title: Emcomm Tools
 nav_enabled: true
+---
 
 # Sample Heading
 
